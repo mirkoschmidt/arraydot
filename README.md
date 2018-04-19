@@ -5,7 +5,7 @@ Helper functions to deal with array dotting
 ## Installation
 
 ```
-composer require cipherpixel/arraydot --no-dev
+composer require mirkoschmidt/arraydot --no-dev
 ```
 
 ## Examples
