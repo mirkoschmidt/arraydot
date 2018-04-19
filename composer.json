@@ -1,11 +1,15 @@
 {
-    "name": "cipherpixel/arraydot",
+    "name": "mirkoschmidt/arraydot",
     "description": "Functions to handle multidimensional arrays and dots.",
     "license": "GPL-3.0",
     "authors": [
         {
             "name": "Michael Benner",
             "email": "mschumi9@gmail.com"
+        },
+        {
+            "name": "Mirko Schmidt",
+            "email": "QM00GjxYUrljodDg"
         }
     ],
     "require": {},
